@@ -1,0 +1,945 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Kings coronation being an exact account of the cavalcade, with a description of the triumphal arches, and speeches prepared by the city of London for His late Majesty Charles the Second, in his passage from the Tower to Whitehall : also the narrative of His Majesties coronation, with his magnificant proceeding and feast in Westminster-Hall, April the 23th : as it was published by His Majesties order, with the approbation and license of Sir Edward Walker, Garter Principal King at Arms / by John Ogilby Esquire ; published by William Morgan, His Majesties Cosmographer.</title>
+            <author>Ogilby, John, 1600-1676.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1685</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 66 KB of XML-encoded text transcribed from 11 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A53231</idno>
+            <idno type="STC">Wing O176</idno>
+            <idno type="STC">ESTC R181191</idno>
+            <idno type="EEBO-CITATION">12962038</idno>
+            <idno type="OCLC">ocm 12962038</idno>
+            <idno type="VID">96086</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A53231)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 96086)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 723:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Kings coronation being an exact account of the cavalcade, with a description of the triumphal arches, and speeches prepared by the city of London for His late Majesty Charles the Second, in his passage from the Tower to Whitehall : also the narrative of His Majesties coronation, with his magnificant proceeding and feast in Westminster-Hall, April the 23th : as it was published by His Majesties order, with the approbation and license of Sir Edward Walker, Garter Principal King at Arms / by John Ogilby Esquire ; published by William Morgan, His Majesties Cosmographer.</title>
+                  <author>Ogilby, John, 1600-1676.</author>
+                  <author>Morgan, William, d. 1690.</author>
+               </titleStmt>
+               <extent>[2], 18 p.   </extent>
+               <publicationStmt>
+                  <publisher>Re-printed by the heir of Andrew Anderson ...,</publisher>
+                  <pubPlace>Edinburgh :</pubPlace>
+                  <date>1685.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Advertisement: prelim. p. [2].</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  II, --  King of England, 1630-1685 --  Coronation.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:96086:1"/>
+            <pb facs="tcp:96086:1"/>
+            <p>THE KINGS CORONATION: Being an Exact Account of the CAVALCADE, WITH A Deſcription of the Triumphal Arches, and Speeches prepared by the CITY of LONDON For His late Majeſty Charles the Second, In His Paſſage from the <hi>Tower</hi> to <hi>Whitehall.</hi>
+            </p>
+            <p>ALSO THE NARRATIVE Of his Majeſties Coronation, with his magnificent proceeding, And Feaſt in <hi>Westminſter</hi>-Hall, <hi>April</hi> the 23th. As it was Publiſhed by his Majeſties Order, with the Approba<g ref="char:EOLhyphen"/>tion and Licenſe of Sir <hi>Edward Walker, Garter Principal</hi> King at Arms.</p>
+            <p>By <hi>John Ogilly</hi> Eſquire.</p>
+            <p>Publiſhed by <hi>William Morgan</hi> his Majeſties Coſmographer.</p>
+            <p>
+               <hi>Edinburgh,</hi> Re-printed by the Heir of <hi>Andrew Anderſon,</hi> Printer to His moſt Sacred Majeſty, <hi>Anno DOM</hi> 1685.</p>
+         </div>
+         <div type="approbation">
+            <pb facs="tcp:96086:2"/>
+            <p>I have peruſed a brief Narrative of his Majeſties Solemn Coronati<g ref="char:EOLhyphen"/>on, Printed by Mr. <hi>Ogilby,</hi> together with his Deſcription of his Ma<g ref="char:EOLhyphen"/>jeſties Entertainment paſſing through the City of <hi>London</hi> to his Co<g ref="char:EOLhyphen"/>ronation, <hi>&amp;c.</hi> and in Purſuance of his Majeſties Order unto me di<g ref="char:EOLhyphen"/>rected, have examined, and do approve thereof, ſo as the ſaid Mr. <hi>Ogilby</hi> may freely publiſh the ſame.</p>
+            <closer>
+               <signed>EDWARD WALKER <hi>Garter Principal King at Arms.</hi>
+               </signed>
+               <dateline>
+                  <hi>From the Heralds Colledge</hi> 
+                  <date>
+                     <hi>this thirteenth of</hi> June 1662.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="publishers_advertisement">
+            <head>An Advertiſement.</head>
+            <list>
+               <item>
+                  <hi>1.</hi> THe four Triumphal Arches built by the City of <hi>London,</hi> for the en<g ref="char:EOLhyphen"/>tertainment of our late moſt gracious Soveraign <hi>Charles</hi> the Second, in his paſſage from the <hi>Tower</hi> to <hi>Whitehall</hi> on the <hi>22th</hi> of <hi>April, 1661.</hi> being the Day before his Coronation.</item>
+               <item>
+                  <hi>2.</hi> The Inſide of <hi>Weſtminſter Abby,</hi> Deſcribing the places of the No<g ref="char:EOLhyphen"/>bility and great Officers, with the manner of the Kings Coronation, on <hi>St GEORGES</hi> Day <hi>April</hi> the <hi>23th.</hi>
+               </item>
+            </list>
+            <p>Done on Copper; and proper to be added to this Book, ſold by <hi>Wil<g ref="char:EOLhyphen"/>liam Morgan</hi> at his Houſe, next the <hi>Blew-Boar</hi> in <hi>Ludgate-Street.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb n="1" facs="tcp:96086:2"/>
+            <head>
+               <hi>THE CAVALCADE;</hi> Or His Majesties paſſing through the City of Lon<g ref="char:EOLhyphen"/>don to His Coronation.</head>
+            <opener>
+               <date>
+                  <hi>April</hi> the 22th. 1661.</date>
+            </opener>
+            <p>THe City of <hi>London</hi> having built four Triumphal Arches, and adorned the Streets in the beſt manner they could, to entertain His Majeſty in his paſſage from the <hi>Tower</hi> to <hi>Whitehall.</hi> About ten of the Clock, being all mounted on ſtately Horſes with very rich Trapping, the Cavalcade began in the following Order.</p>
+            <p>After ſeveral led Horſes followed with Kettle Drums and Trumpets, the Duke of <hi>Yorks</hi> Horſe Guard, next the Meſſengers of the Chamber, then the Eſquires to the Knights of the Bath, the Knight <hi>Harbinger,</hi> and Serjeant <hi>Porter,</hi> the Sewers of the Chamber, and Gentlemen <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſhers, Quarter Waiters, the Clerks of the Chancery, Clerks of the Signet, Clerks of the Privy Seal, Clerks of the Council, Clerks of the Parliament, and Clerks of the Crown-Next the Chaplains having dignities, the Kings Advocate and Remembrancer, the Maſters of the Chancery, the Kings Learned Council at Law, the Kings Puiſne Serjeants, the Kings At<g ref="char:EOLhyphen"/>torney and Solicitor, the Kings eldeſt Serjeants, the Secretarys of the <hi>French</hi> and <hi>Latine</hi> Tongues, the Gentlemen Uſhers, daily Waiters, Sewers, Caryers, and Cupbearers in Ordi<g ref="char:EOLhyphen"/>nary, Eſquires of the Body, Maſters of ſtanding Offices <hi>(vizs)</hi> Tents, Revels; and Ceremo<g ref="char:EOLhyphen"/>nies, Armory, Wardrobe and Ordinance, Maſters of the Requeſts, Chamberlains of the Ex<g ref="char:EOLhyphen"/>chequer, Gentlemen of the Privy Chamber, Knights of the Bath ſixty eight, the Knight Mar<g ref="char:EOLhyphen"/>ſhal, the Maſter of the Jewel Houſe, and the Treaſurer of the Chamber, then Barons young<g ref="char:EOLhyphen"/>eſt Sons, Vicounts youngeſt Sons, then the three Barons of the Exchequer, the ſix Juſtices of the Kings Bench and Common Pleas, the Lord Chief Juſtice of the Common Pleas, and Lord Chief Baron of the Exchequer, the Lord Chief Juſtice of the Kings Bench and Maſter of the Rolls, then Barons eldeſt Sons, Earls younger Sons, Vicounts eldeſt Sons, then a Kettle Drum, and two Sets of the Kings Trumpets, and the Serjeant Trumpeter with his Mace, then two Purſuivants at Arms before the Barons two and two, being (as all the Train was, eſpecially the Nobility) attended by Gentlemen, Pages, and Footmen in rich habits <hi>going before</hi> thoſe to whom they did belong,</p>
+            <p>Then Marqueſſes younger Sons, Earls eldeſt Sons, and two Purſuivants at Arms before the Viſcounts, then Dukes younger Sons, Marqueſſes eldeſt Sons, then two Heralds before the Earls, then the Lord Chamberlain of the Kings Houſhold, then Dukes eldeſt Sons, and two Heralds before the Marqueſs of <hi>Worcester,</hi> and the Marqueſs of <hi>Dorchester,</hi> then two Heralds before the Duke of <hi>Buckingham,</hi> and here the Attendants began to be more numerous and uncovered, then <hi>Clarenceux</hi> and <hi>Norroy</hi> the two Kings at Arms, the Lord Chancellor, the Lord Treaſur<g ref="char:EOLhyphen"/>er, the Lord High Steward, and ſour Serjeants at Arms with their Maces, before two per<g ref="char:EOLhyphen"/>ſons repreſenting the Dukes of <hi>Normandy</hi> and <hi>Aquitain,</hi> then Garter Principal King at Arms, the Gentleman Uſher with the black Rod, and the Lord Mayor of <hi>London,</hi> followed by the Gentlemen, Pages and Footmen that attended his Royal Highneſs the Duke of <hi>York,</hi> (our now moſt gracious Soveraign,) who was followed by about twenty Serjeants at Arms with their
+<pb n="2" facs="tcp:96086:3"/>Maces; after whom came the Earl of <hi>Lindſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y,</hi> Lord great Chamberlain of <hi>England,</hi> the Earl <hi>Northumberland,</hi> Lord High Conſtable of <hi>England,</hi> and the Earl of <hi>Suffolk,</hi> Earl Marſhal of <hi>England,</hi> then the Kings Footmen, and Pages, and the King in the midſt of the Gentlemen Penſioners and Equirees, followed by the Yeomen of the Guard, then the Duke of <hi>Albemarle,</hi> Maſtes of the Horſe, on Horſeback, leading a Horſe of Eſtate, the Vice-Chamberlain, The Captain of the Penſioners, and Captain of the Guard, followed by the Kings Horſe Guards, <hi>&amp;c.</hi>
+            </p>
+            <p>In this Order they marched through <hi>Croutched Fryers</hi> to <hi>Algate,</hi> and ſo through the City to <hi>White-hall.</hi>
+            </p>
+            <p>In <hi>Croutched Fryers,</hi> on a Stage was placed a Band of eight Wa<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ts, and near <hi>Algate</hi> another Band of the like Muſick entertained them from a Balcony built for that purpoſe.</p>
+            <div type="description">
+               <head>A Deſcription of the Triumphal Arches.</head>
+               <p>IN <hi>Leadenhal-Street,</hi> near <hi>Lime-Street,</hi> was erected the firſt Triumphal Arch after the <hi>Dorick</hi> Order: On the North ſide, on a Pedeſtal before the Arch, was a Woman perſonating <hi>Re<g ref="char:EOLhyphen"/>bellion,</hi> mounted on an <hi>Hydra,</hi> in a Crimſon Robe, torn Snakes crawling thereon, and be<g ref="char:EOLhyphen"/>girt with Serpents, her Hair ſnaky, a Crown of Fire on her Head, a bloody Sword in one hand, a charming Rod in the other, Her Attendant, <hi>Confuſion,</hi> in a deformed ſhape, being a Garment of ſeverall ill matched Colours, and put on the wrong way, on her Head ruines of Caſtles, torn Crowns, and broken Scepters in each hand.</p>
+               <p>On the South Pedeſtal was a Repreſentation of <hi>Britains</hi> Monarchy, ſupported by <hi>Loyalty,</hi> both Women, <hi>Monarchy</hi> in a large purple-Robe, adorned with Diadems and Scepters, over which ſhe had a looſe mantle edged with blue and Silver Fringe, reſembling Water, on her Mantle the Map of great <hi>Britain,</hi> on her Head <hi>London,</hi> in her right Hand <hi>Edinburgh,</hi> in her left <hi>Dublin. Loyalty</hi> was all in white with three Scepters in her right Hand, and three Crowns in her left.</p>
+               <p>The firſt painting on the South ſide was a proſpect of his Majeſties Landing at <hi>Dover Caſtle,</hi> Ships at Sea, great Guns going off, one kneeling and kiſſing the Kings Hand, Soldiers Horſe and Foot, with many people attending and gazing. The painting on the North ſide oppoſit to this was a Trophy with decollated Heads.</p>
+               <p>The painting over the middle Arch repreſented the King mounted, in calm motion, <hi>Uſurpa<g ref="char:EOLhyphen"/>tion</hi> flying before him, being a Figure with many Ill-favoured Heads, ſome bigger, ſome leſſer, and one ſhooting our of his ſhoulder like <hi>Cromwel,</hi> another Head upon his Rump or Tayl, two Harpies with a Crown, chaſed by an Angel into Hells mouth.</p>
+               <p>Above the Arch, on two <hi>Pedeſtials</hi> South-ward and North ward, ſtood the Statues of King <hi>James</hi> and King <hi>Charles</hi> the Firſt, in the middle and ſomewhat higher, (juſt over the Arch) the Statue of his Sacred Majeſty <hi>Charles</hi> the Second.</p>
+               <p>Behind the Figure of <hi>Charles</hi> the Second, in a large Table was Deciphered the Royal Oa<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> bearing Crowns and Scepters.</p>
+               <p>The upper Paintings on the Eaſt-ſide were ruinous, repreſenting the Diſorder the Kingdom was in, during his Majeſties abſence, but on the Weſt ſide they were finiſhed, to repreſent the Reſt<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uration of our happineſs by His Majeſties Arrival.</p>
+               <p>The Painting on the South-Weſt ſide repreſented the Lord Mayor delivering the Keys of the City to the King, in the Niches were four figures; the firſt on the South ſide. a Woman in pleaſant colours, the emblem on her ſhield a Terreſtial Glob, the Sun Riſing, B<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ts and Owls flying to the ſhadow. The ſecond Had on her Eſcutcheon, a ſwarm of Bees whetting their ſtings. The third on the North ſide had on her ſhield a mountain burning, Cities and Vine-Yards deſtroyed. The fourth had on her Eſcutcheon an Arm, as it were thruſt out of the Clouds, and in the hand a naked ſword.</p>
+               <p>
+                  <pb n="3" facs="tcp:96086:3"/>Eight Mutes above were on pedeſtals, four in white, and four in Crimſon.</p>
+               <p>The Muſick of this Fabrick is ten Drums flanking <hi>Rebellion,</hi> and twelve Trumpets flanking <hi>Mon<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rcoy,</hi> aloft under the two Devaſtations twelve Trumpets and four Drums. Within the Arch, on two Balconies, ſix Trumpets and four Drums, while the Train paſſed along, the Drums beat the Marches of ſeveral Countries, and the Trumpets ſound ſeveral Levers, but His Majeſty drawing near, the Drums turn their March to a Battle, the Trumpets ſound a Charge, and on a ſudden <hi>Rebellion</hi> rowſeth up her ſelf; at which Drums and Trumpets ceaſ<g ref="char:EOLhyphen"/>ing, <hi>Rebellion</hi> addreſſes to His Majeſty the following Speech.</p>
+               <lg>
+                  <l>Stand! ſtand! who e're you are, this ſtage is ours,</l>
+                  <l>The Names of Princes are inſcrib'd on Flowers</l>
+                  <l>And wither with them! ſtand! you muſt we know</l>
+                  <l>To Kings and <hi>Monarchy</hi> a deadly foe;</l>
+                  <l>Me, who dare bid you, midſt your triumphs ſtand,</l>
+                  <l>In the great City of your native Land.</l>
+                  <l>I am Hells Daughter, Satans eldeſt Child,</l>
+                  <l>When I firſt Cry'd the Power of Darkneſs ſmil'd,</l>
+                  <l>And my glad Father, thundring at my Birth,</l>
+                  <l>Unhing'd the Poles, and ſhook the ſixed Earth.</l>
+                  <l>My dear <hi>Rebellion</hi> (that ſhall be thy Name</l>
+                  <l>Said he) thou Emperours and Kings ſhalt Tame,</l>
+                  <l>No Right ſo good, Succeſſion none ſo long,</l>
+                  <l>But thou ſhalt vanquiſh by thy popular throng,</l>
+                  <l>Thoſe Legions, which to enlarge our power we ſend</l>
+                  <l>Throughout the World, ſhalt thee (my Dear) attend,</l>
+                  <l>Our mighty Champions, the ſeven deadly Sins,</l>
+                  <l>By Malice, Profit, Pleaſure all their Gins,</l>
+                  <l>Bring to our Kingdom ſome few ſpotted Souls;</l>
+                  <l>Thou ſhalt by Treaſon h<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rry them in ſhoals.</l>
+                  <l>Would you now know what intereſt I have here</l>
+                  <l>
+                     <hi>Hydra</hi> I ride, great Cities are my Sphear:</l>
+                  <l>I Sorc'ry uſe, and Hag Men in their Bed<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>,</l>
+                  <l>With Common-wealths and <hi>Rota</hi>'s ſill their heads;</l>
+                  <l>Making the Vulgar Fanatique Swarms,</l>
+                  <l>Court Civil War, and dote on Horrid Arms.</l>
+                  <l>'Twas I, who in the late unnatural Broi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s,</l>
+                  <l>Engag'd three Kingdoms and two Wealthy Iſles.</l>
+                  <l>I hope at laſt to march with Flags unfurl'd,</l>
+                  <l>And tread down <hi>Monarchy</hi> thro' all the World.</l>
+               </lg>
+               <p>At which Words <hi>Monarchy</hi> and <hi>Loyalty</hi> unve<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ling themſelves, <hi>Rebellion</hi> ſtarts as affrighted, but recollecting her ſelf concludes her ſpeech thus,</p>
+               <lg>
+                  <l>Ah <hi>Britain,</hi> Ah! ſtand'ſt thou Triumphant there,</l>
+                  <l>Monarchick Iſle, I ſhake with horrid fear.</l>
+                  <l>Are thy Wounds whole, upon thy Cheek freſh ſmiles?</l>
+                  <l>Is joy reſtor'd to theſe late mournful Iſles?</l>
+                  <l>Ah, muſt he enter, and a King be Crown'd,</l>
+                  <l>Then, as he riſeth, ſink me under ground.</l>
+               </lg>
+               <p>
+                  <hi>Rebellion</hi> having ended her Speech. <hi>Monarchy</hi> entertains His Majeſty with the following, <hi>Sinks.</hi>
+               </p>
+               <lg>
+                  <l>To Hell ſoul Fiend ſhrink from this glorious Light,</l>
+                  <l>And hide thy Head in everlaſting Night.</l>
+                  <l>Enter in ſafety, Royal Sir, this Arch;</l>
+                  <l>
+                     <pb n="4" facs="tcp:96086:4"/>And thro' your joyful Streets In Triumph March;</l>
+                  <l>Enter, our Sun, our Comfort, and our Life;</l>
+                  <l>No more theſe Walls ſhall breed Inteſtine ſtriſe.</l>
+                  <l>Henceforth your People only ſhall content,</l>
+                  <l>In Loyalty each other to tranſcend,</l>
+                  <l>May your great Actions and immortal Name</l>
+                  <l>Be the whole buſineſs and delight of Fame;</l>
+                  <l>May you and yours in a perpetual Calm</l>
+                  <l>Be Crown'd with Lawrel and Triumphal Palm,</l>
+                  <l>And all confeſs, whil'ſt they in you are bleſt</l>
+                  <l>I <hi>Monarchy,,</hi> of Governments am beſt.</l>
+               </lg>
+               <p>
+                  <hi>Monarchy</hi> having ended her ſpeech the Trumpets ſound pleaſant Levets, and the Drums heat a loſty Engliſh March whil'ſt his Majeſty, the Nobility, and the Rear Guard paſs on.</p>
+               <p>The next Entertainment was at <hi>Cornhill</hi> Condult, on the top of which ſtood eight Nymphs clad in white, each having an Eſcutcheon in one hand, and a Pe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>dant or Banner in the other. On the Tower of the ſaid Conduit a Noiſe of ſeven Trumpets.</p>
+            </div>
+            <div type="description">
+               <head>The ſecond Arch.</head>
+               <p>NEar the <hi>Exchange</hi> in <hi>Cornhill</hi> was erected a Naval Arch. On the Eaſt ſide were two Stages. On each ſide of the Street one. In that on the South ſide was a Perſon repre<g ref="char:EOLhyphen"/>ſenting the River <hi>Thames;</hi> his Garment looſe and flowing, Colour <hi>Blew</hi> and <hi>White</hi> waved like Water; a Mantle over like a Sail, his Head Crown'd with <hi>London</hi> Bridge, Flags and Oſi<g ref="char:EOLhyphen"/>ers like long hair falling over his Shouldiers, his beard long, Sea <hi>Green,</hi> and <hi>White,</hi> an O<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r in his right hand, the Model of a Ship in his left, an U<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n beſide hi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, out of which iſſued Water, four Attendants in <hi>White,</hi> repreſenting the four freſh ſtreams which fall into the River <hi>Thames, (viz.) Charwel, Lea, Coln,</hi> and <hi>Medway.</hi>
+               </p>
+               <p>In the Stage on the North ſide, made like the upper Deck of a Ship, were three Seamen, whereof one was habited like a Boat ſwain:</p>
+               <p>The firſt Painting on the North ſide over the City Arms, repreſents <hi>Neptune</hi> with his Tri<g ref="char:EOLhyphen"/>dent advanc'd. On the South ſide oppoſite was <hi>Mars,</hi> with his Spear inverced, his ſhield charged with a <hi>Gorgon,</hi> over the Arch the Marriage of <hi>Thames</hi> and <hi>Iſis.</hi> The Painting on the North ſide over <hi>Neptune</hi> repreſents the <hi>Exchange.</hi> The Painting on the South ſide over <hi>Mars</hi> ſhews the <hi>Tower</hi> of <hi>London.</hi> The Pedeſtals in the upper Story were adorn'd with living Figures, repreſenting <hi>Europe, Aſia, Africa,</hi> and <hi>America,</hi> with Eſcutcheons and Pendents, bearing the Arms of the Companies Trading into thoſe parts. <hi>Europe</hi> a Woman arm'd al'an<g ref="char:EOLhyphen"/>tique, on her Shield a Woman riding on a Bull, and at her Foot a Cony. <hi>Aſia,</hi> on her head a Glory, her Stole of Silk, with ſeveral forms of Wild Beaſts wrought on it. <hi>Africa,</hi> a Wo<g ref="char:EOLhyphen"/>man, in her Hand a Pomegranate, on her Head a Crown of Ivory and Ears of Wheat, at her Feet two Ships laden with Corn. <hi>America,</hi> Crown'd with Feathers of divers Colours; on her Stole a Golden R ver, and in her hand a Silver Mountain. The uppermoſt Table in the fore Ground repreſents King <hi>Charles</hi> the Firſt, with the Prince, <hi>Charles</hi> the Second, in his hand viewing the Soveraign of the Sea, the Prince leaning on a Cannon, above over the Corniſh be<g ref="char:EOLhyphen"/>tween the two Celeſtial Hemiſpheres an <hi>Atlas</hi> bearing a Terreſtial Glob, and on it a Ship un<g ref="char:EOLhyphen"/>der Sail. The great Painting on the Weſt ſide repreſented the Duke of <hi>York,</hi> habited al'an<g ref="char:EOLhyphen"/>tique,
+<pb n="5" facs="tcp:96086:4"/>like <hi>Neptune,</hi> ſtanding on a Shell drawn by Sea Horſes, before which is a <hi>Triton</hi> ſound<g ref="char:EOLhyphen"/>ing, the Duke holding in one hand a Trident, and the Reins in the other: In the four Niches within the Arch, were living Figures, with Eſcutcheons and Pendents, repreſenting Arith<g ref="char:EOLhyphen"/>metick, Geometry, Aſtronomy, and Navigation.</p>
+               <p>Arithmetick, a Woman habited al'antique with her Fingers, erect upon her Veſtment<g ref="char:EOLhyphen"/>liues with Muſick Notes: in her Eſcutcheon a Book open'd, with a hand pointing to the Fi<g ref="char:EOLhyphen"/>gures, I.V.X.L.C.D.M.</p>
+               <p>
+                  <hi>Geometry,</hi> a Woman in a pleaſant Green, in her Shield a Compaſs and a Reed.</p>
+               <p>
+                  <hi>Aſtronomy,</hi> a Woman in an azure and looſe Veſtment, wrought with Stars of Gold, ſhe look<g ref="char:EOLhyphen"/>ing up to Heaven, in her Shield a Table where are divers Aſtronomical Figures.</p>
+               <p>
+                  <hi>Navigation,</hi> a Woman in a Sea Green habit, in her Eſcutcheon an Anchor with a Cable about it. Whil'ſt the Nobility paſſed by, the three Seamen entertaln'd them with a Song.</p>
+               <p>Beſides the three Sea-men who ſang the Song, there were in the like habit ſix Perſons with Wind-muſick.</p>
+               <p>The Muſick in the other Stage conſiſted of three Drums and ſix Trumpets. On two Bal<g ref="char:EOLhyphen"/>conies within the Arch was Wind-muſick conſiſting of twelve Perſons. On the Weſt Gallery were placed ſix Trumpets, and all of them performed their Duty till ſuch time as his Majeſty fronted the Figure which repreſented <hi>Thames,</hi> and then ceaſed; upon which <hi>Thames</hi> made the enſuing Speech.</p>
+               <lg>
+                  <l>Ten Moons great Sir, their Silver Creſcenis fill'd</l>
+                  <l>Since, mounted on a Billow, I beheld</l>
+                  <l>You on the Bridge, but louder joys there were,</l>
+                  <l>That barr'd my Welcomes from your Sacred Ear.</l>
+                  <l>Now I. above my Higheſt bound have Rear'd</l>
+                  <l>My head, to ſay what could not then be heard,</l>
+                  <l>Hall Mighty <hi>Monarch!</hi> whoſe Imperial Hand</l>
+                  <l>Qulets the Ocean and ſecures the Land.</l>
+                  <l>This City whom I ſerve with Neighb'ring Floods</l>
+                  <l>Exporting yours, Importing Foreign Goods,</l>
+                  <l>With anxious Grief did long your abſence mourn,</l>
+                  <l>Now with full joy ſhe welcom's your Return,</l>
+                  <l>Your Bleſt Return! by which ſhe is Reſtor'd,</l>
+                  <l>To all the Wealth remoteſt Lands afford.</l>
+                  <l>At your approach I haſt'ned to the <hi>Downs,</hi>
+                  </l>
+                  <l>To ſee your moving Forts, your floating Towns,</l>
+                  <l>Your <hi>Soveraigns</hi> big with Thunder plow the Main,</l>
+                  <l>And ſwimming Armies in their Womb contain.</l>
+                  <l>You are our <hi>Neptune,</hi> every Port and Bay,</l>
+                  <l>Your Chambers: The whole Sea is your High-way,</l>
+                  <l>Tho' ſeveral Nations boaſt theſe ſtrength on Land,</l>
+                  <l>Yet you alone the Watry World Command.</l>
+                  <l>Pardon great Sir, fair <hi>Cynthia</hi> checks my ſtay,</l>
+                  <l>But to your Royal Palace twice a day</l>
+                  <l>I will repair, there my proud Waves ſhall wait,</l>
+                  <l>To bear our <hi>Caeſar</hi> and his Conquering <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ate.</l>
+               </lg>
+               <p>
+                  <pb n="6" facs="tcp:96086:5"/>The River <hi>Thames</hi> having ended his Speech, the three Seamen entertained His Majeſty with a Song, which being ended, the ſeveral ſorts of Muſick performed their Duty whil'ſt His Ma<g ref="char:EOLhyphen"/>jeſty paſſed on towards <hi>Cheap ſide,</hi> at the Stocks was placed on a Balcony, ſix Trumpets and three Drums, the Fountain there, being after the <hi>Thuſcan</hi> Order, venting Wine and Water. On the Top of the great Conduit at the Entrance of <hi>Cheap ſide</hi> was another Fountain, out of which iſſued both Wine and Water. And on the eight Towers of that Conduit were Perſons habited like Nymphs with Eſcutcheons in one hand, and Pendents or Banners in the other, and between each of them Wind Muſick.</p>
+               <p>And on the Standard in <hi>Cheap ſide</hi> was a Band of Waits.</p>
+            </div>
+            <div type="description">
+               <head>The Third Arch.</head>
+               <p>THe third Triumphant Arch ſtood in <hi>Cheap-ſide</hi> near <hi>Wood-ſtreet,</hi> being an Artificial Build<g ref="char:EOLhyphen"/>ing of two Storles; one after the <hi>Corinthian</hi> way of Architecture, the other after the Compoſite, repreſenting the Temple of <hi>Concord:</hi> In the Spandrels of the Arch there were two Figures in Female habits: One repreſenting <hi>Peace,</hi> the other <hi>Truth.</hi> That of <hi>Peace</hi> had her Shield charged with an Helmer, and Bees going in and our: <hi>Truth,</hi> on the other ſide, in a thin habit, on her Shield, Time bringing <hi>Truth</hi> out of a Cave; over the great Painting upon the Arch of the Cupula was repreſented a large <hi>Gorgon</hi> with three Heads Crown<g ref="char:EOLhyphen"/>ed, in his three right Hands, a Lance, a Sword, and a Scepter; in his three left hands, the three Eſcutcheons of <hi>England, Scotland,</hi> and <hi>Ireland,</hi> before him the Kings Arms with three Imperial Crowns.</p>
+               <p>On the top of the Cupula, <hi>Concord,</hi> a Woman, in her right hand holding her Mantle; in her left a Caduceus; under her feet a Serpent ſtrugling. On the Weſt ſide, a Woman ſtanding at the Helm of a Ship; in her left hand a Cornucopia: Aloſt were living Figures with Pennons and Shields, repreſenting the four Cardinal Verthes, each with an Attendant; <hi>Prudence,</hi> on her Shield, <hi>Bellerophon</hi> on a <hi>Pegeſus,</hi> running his Javelin into the mouth of a <hi>Chimera: Juſtice,</hi> on her Shield, a Woman, holding a Sword in one hand, a Dallance in the other; <hi>Temperance,</hi> a Viol in her left hand, and a Bridle in her right. <hi>Fortitude,</hi> with a <hi>Lion,</hi> having the Arms of <hi>England</hi> in an Eſcutcheon.</p>
+               <p>The internal part of this Triumph or Temple, was round the upper part enlightned by artificial Lights; below it was divided into teu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>parts, by Pillars and Pedeſtals: Within the Temple were twelve living Figures, three placed above the reſt: The firſt the Goddeſs of the Temple in rich habit, with a Caduceus in her hand, and a Serpent at her ſeet: Behind the Goddeſs a Man in a Purple Gown, like a Citizen of <hi>London,</hi> preſenting the King with an Oken Garland.</p>
+               <p>Of the Nine leſſer Figures: the firſt bear on a Shield the King of Bees flying alone: and a Swarm following at ſome diſtance. The ſecond, on his shield a Teſtu<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>o, advancing againſt a Wall. The third, a Shield charged with Hears. The fourth, like a ſpread Eagle with two Heads, one of an <hi>Eagle,</hi> the other of an <hi>Edrich;</hi> in the mouth of the <hi>Edtrich</hi> an Horſe-ſhoe, in the Talent of the <hi>Eagle</hi> a Thunderbolt. The fifth, a bundle of Javelins. The ſixth, two hands joyned athwart the Eſcutcheon, as from the Clouds holding a Caduceus with a Crown. The ſeventh, Arms <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>d down, as Guns, Pikes, Enſigns, and Swords. The eight, a Cadu<g ref="char:EOLhyphen"/>ceus, with a winged Hat above, and wings beneath, two <hi>Cornucopia</hi>'s coming out of the middle, ſupported by a Garland. The ninth, a bright Star, ſtriking a Gleam through the midſt of an Eſcutcheon.</p>
+               <p>With theſe Figures is intermingled a Band of twenty ſour Violins. The Baſis and Capitals
+<pb n="7" facs="tcp:96086:5"/>within this Triumph are as Braſs, and the Pillars Steel. The Temple thus adorned, and the Muſick playing, till His Majeſty came to the middle of the Temple, <hi>Concord, Love,</hi> and <hi>Truth,</hi> who till than had not been ſeen, were by the drawing of a Curtain diſcovered, and entertain'd Hit Majeſty with a Song.</p>
+               <p>The Song ended, <hi>Concord</hi> addreſt her ſelf to His Majeſty in theſe words,</p>
+               <lg>
+                  <l>Welcome, great Sir, to <hi>Concord</hi>'s <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ane</l>
+                  <l>Which your return built up again.</l>
+                  <l>You have her Fabrick Rear'd ſo high,</l>
+                  <l>That the proud Turrets kiſs the Skie.</l>
+                  <l>Tumult by you, and Civil War,</l>
+                  <l>In <hi>Janus</hi> Gates impriſon'd are:</l>
+                  <l>By you, the King of Truth and Peace,</l>
+                  <l>May all diviſions ever ceaſe.</l>
+                  <l>Your Sacred Brow, the bluſhing Roſe,</l>
+                  <l>And Virgin <hi>Lilly</hi> twin'd encloſe:</l>
+                  <l>The <hi>Caledonian</hi> Thiſtle down</l>
+                  <l>Combine with theſe to adorn your Crown:</l>
+                  <l>No diſcord in the <hi>Hibernian</hi> Harp,</l>
+                  <l>Nought in our Duty <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>lat, or Sharp.</l>
+                  <l>But all couſpire that you as beſt,</l>
+                  <l>May 'bove all other Kings be bleſk</l>
+               </lg>
+               <p>The Speech ended, His Majeſty at His going off was entertain'd with another Song.</p>
+               <p>On the little Conduit, at the upper end of <hi>Cheapſide,</hi> were four Nymphs, each of them hav<g ref="char:EOLhyphen"/>ing an Eſcutcheon in one hand, and a Pendant in the other. In a Balcony at the Entrance of <hi>Pater Hoſter</hi> Row, were placed His Majeſties Drums and Fife. Between that and <hi>Ludgate</hi> there were two other Balconies erected, in one was placed a Band of ſix Waits, in the other ſix Drums: On the top of <hi>Ludgate</hi> ſix Trumpets: At <hi>Fleet-bridg;</hi> a Band of ſix Waits. On <hi>Fleet</hi> Conduit were ſix Nymphs clad in white, each with an Eſcutcheon in one hand, and a Pendant in the other, as alſo a Band of ſix Waits, and on the Canthorn of the Conduit was the Figure of <hi>Temperance</hi> mixing Water and Wine.</p>
+            </div>
+            <div type="description">
+               <head>The Fourth Arch.</head>
+               <p>IN <hi>Fleet-ſtreet</hi> near <hi>White-Friers</hi> ſtood the fourth Triumphal Arch, repreſenting the Garden of <hi>Plenty,</hi> being of two Stories, one of the <hi>Dorick</hi> Order, the other of the <hi>Ionick.</hi> Over the Poſtern on the South-ſide of the Entrance was <hi>Bacchus,</hi> a Youth in a Charlot drawn by Tygers, the Reins Vine-branches, his Mantle a <hi>Panthers</hi> Skin, his Crown of Grapes and Ivy, a <hi>Thyrſus</hi> in his left hand, a Cup in his right. The painting over this repreſents <hi>Silenus</hi> ou his Aſs, with S<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>yrs dancing in drunken and antick poſtures, the Proſpect a Vineyard.</p>
+               <p>On the North ſide oppoſite was <hi>Ceres</hi> drawn in a Chariot by winged Dragons, and crowned with Ears of Corn: In her left hand Poppey, in her right hand a blazing Torch, the painting over her being a deſcription of Harveſt.</p>
+               <p>
+                  <pb n="8" facs="tcp:96086:6"/>On the Weſt ſide of the Arch over the South Poſtern, was the Goddeſs <hi>Flora</hi> in a various coloured habit, in one hand Red and White Roſes, in the other Lillies, on her head a Gar<g ref="char:EOLhyphen"/>land of ſeveral flowers; the painting over this a Garden with Walls, Statues, Fountains, Flow<g ref="char:EOLhyphen"/>ers, and Figures of Men and Women walking.</p>
+               <p>Oppoſite to this on the North ſide was the Goddeſs <hi>Pomona</hi> crown'd with a Garland of ſeve<g ref="char:EOLhyphen"/>ral Fruits, in her right hand a Prunning Hook, in her left hand the Sun, at her feet all ſorts of G<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ſſing and Gardening Tools.</p>
+               <p>The great Figure on the top of all repreſents Plenty, crown'd, a Branch of Palm in her right hand, a <hi>Carnucopia</hi> in her left.</p>
+               <p>The M<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſick aloft on both ſides, and on the two Balconies within, were twelve Waits, ſix Trumpets, and three Drums.</p>
+               <p>At a convenient diſtance before this ſtructure were two Stages erected, divided, planted, and adorned like Gardens<g ref="char:punc">▪</g> each of them eight Yards in length, five in breadth, upon that on the North ſide ſat a Woman repreſenting Plenty, crowned with a Garland of divers Flowers, Clad in Green Veſtment Embroidered with Gold, holding a <hi>Cornucopia,</hi> her Attendants two Virgins, at His Majeſties approach the Perſon repreſenting Plenty made addreſs to him in theſe Words,</p>
+               <lg>
+                  <l>Great Sir, the Star which at your happy Birth,</l>
+                  <l>Joy'd with his Beams (at Noon) the wondring Earth;</l>
+                  <l>Did with auſpicious Luſtre then preſage,</l>
+                  <l>The glittering plenty of this Golden Age,</l>
+                  <l>The Clouds blown o're, which long our Joyes o'recaſt;</l>
+                  <l>And the ſad Winter of your abſence paſt:</l>
+                  <l>See the three ſmiling ſeaſons of the year,</l>
+                  <l>Agree at once to bid you welcome here:</l>
+                  <l>Her Homage <hi>Dutious Flora</hi> comes to pay,</l>
+                  <l>With her Enameld Treaſure ſtrows the way,</l>
+                  <l>
+                     <hi>Ceres</hi> and <hi>Pales,</hi> with a bounteous hand,</l>
+                  <l>Diffuſe their plenty over all your Land,</l>
+                  <l>And <hi>Bacchus</hi> is ſo laviſh of his Store,</l>
+                  <l>That Wine flows now where Water ran before,</l>
+                  <l>Thus Seaſons, Men, and Gods, their joy expreſs,</l>
+                  <l>To ſee your Triumph and our Happineſs.</l>
+               </lg>
+               <p>His Majeſty having paſſed the four Triumphal Arches was at <hi>Temple-bar</hi> entertained with the view of a delightful Boſcage full of ſeveral Beaſts both Tame and Savage, as alſo ſeveral living Figures, and the Muſick of eight Wales: But this being the Limit of the Cities Liberty muſt be ſo likewiſe of our Deſcription.</p>
+            </div>
+         </div>
+         <div type="account">
+            <pb n="9" facs="tcp:96086:6"/>
+            <head>THE NARRATIVE OF <hi>His Majeſties Coronation,</hi> With his Magnificent Proceeding and Feaſt, in <hi>Weſtminster</hi> Hall</head>
+            <opener>
+               <date>
+                  <hi>April</hi> the 23th. 1661.</date>
+            </opener>
+            <p>UPon the 23th of <hi>April,</hi> being S. <hi>Georges</hi> day, about ſeven in the morning, the King took Water from the privy Stairs at <hi>Whitehall,</hi> and landed at the Parliament Stairs, from whence he went up to the Princes Lodgings; where, after he had repoſed himſelf, he was arrayed in Royal Robes of Crimſom velvet, furr'd with E<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>mine, by which time the Nobility, being come together, Robed them<g ref="char:EOLhyphen"/>ſelves in the Lords Houſe and painted Chamber.</p>
+            <p>The Judges alſo with thoſe of the long Robe, the Knigh's of the Bath (then in their Robes of purple Sar<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>in lined with white Taſſity) and Gentlemen of the privy Chamber, met in the Court of Requeſts, and being drawn down into <hi>Weſtminſter</hi> Hall, where this great ſolemnity (ordered by the Officers at Arms) began. The Nobility, in their proper Robes carrying their Cornets in their Hands, proceeded according to their ſeveral dignities and degrees, be<g ref="char:EOLhyphen"/>fore his Majeſty up to his Throne of State, which was raiſed at the Weſt end of the Hall, pla<g ref="char:EOLhyphen"/>cing themſelves upon each ſide thereof.</p>
+            <p>The K ng being ſet in a rich Chair, under a glorious Cloth of State, Sir <hi>Gilbert Talbot</hi> Knight, Maſter of the Jewel-houſe, preſented the Sword of State, as alſo the Sword called <hi>C<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rtan<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> and two other Swords, to the Lord high Conſtable, who took and delivered them to the Lord high Chamberlain, and he laid them upon the Table before the King, and in the like manner the Spurs.</p>
+            <p>Immediatly after, the Dean and prebends of <hi>Westminster,</hi> by whom the <hi>Regalia</hi> had been brought in proceſſion from the Abbey to <hi>Weſtminſter</hi> Hall, being veſted in rich Copes, came up from the lower end thereof in manner following.</p>
+            <list>
+               <item>Firſt, The Serjeant of the Veſtry in a ſcarlet Mantle.</item>
+               <item>Then the Children of the Kings Chappel in ſcarlet Maniles.</item>
+               <item>Then the quire of <hi>Westminster</hi> in ſurplices.</item>
+               <item>Then the Gentlemen of the Kings Chappel in ſcarlet Mantles</item>
+               <item>Next the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>urſulvants, Heralds, and provincial Kings of Arms.</item>
+               <item>Then the Dean carrying Saint <hi>Edwards</hi> Crown.</item>
+               <item>And after him five of the Prebends of that Church,</item>
+               <item>The firſt carrying the Scepter with the Croſs.</item>
+               <item>The ſecond the Scepter with the Dove.</item>
+               <item>The third the Orb with the Croſs.</item>
+               <item>The fourth King <hi>Edwards</hi> Staff.</item>
+               <item>The fifth the Chalice and Patena.</item>
+            </list>
+            <p>
+               <pb n="10" facs="tcp:96086:7"/>Who paſſing thus through the Hall, and making their due Reverences in three places, and towards the upper end, the Quires and Officers at Arms falling off on each ſide, the Dean and Prehends aſcended the Steps, at the top whereof, Garter Principal, King of Arms ſtand<g ref="char:EOLhyphen"/>ing, conducted them to the Table placed before the Throne, where making their laſt Reve<g ref="char:EOLhyphen"/>rence, the Dean firſt preſented the Crown, which was by the Lord high Conſtable, and Lord <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>at Chamberlain, ſet upon the Table, who likewiſe received from the Prebends the <hi>Regalia,</hi> which they carried, and laid them alſo by the Crown.</p>
+            <p>Then the Lord Great Chamberlain preſenting the <hi>Regalia</hi> ſeverally to the King, His Maje<g ref="char:EOLhyphen"/>ſty diſpoſed of them to the Noblemen which carryed them in the proceeding <hi>viz.</hi> Saint <hi>Ed<g ref="char:EOLhyphen"/>wards</hi> Staff to the Earl of <hi>Sandwich.</hi>
+            </p>
+            <list>
+               <item>The Spurs to the Earl of <hi>Pembroke</hi> and <hi>Montgomery.</hi>
+               </item>
+               <item>The Scepter with the Croſs to the Earl of <hi>Bedford.</hi>
+               </item>
+               <item>The poluted Sword (born on the left Hand of <hi>Cartana</hi>) to the Earl of <hi>Darby.</hi>
+               </item>
+               <item>The pointed Sword (born on the right Hand thereof) to the Earl of <hi>Shrewsbury</hi>
+               </item>
+               <item>The Sword called <hi>Curtana</hi> to the Earl of <hi>Oxford.</hi>
+               </item>
+               <item>The Sword of State to the Earl of <hi>Mancheſter.</hi>
+               </item>
+               <item>The Scepter with the Dove to the Duke of <hi>Albemarle.</hi>
+               </item>
+               <item>The Orb with the Croſs, to the Duke of <hi>Buckingham.</hi>
+               </item>
+               <item>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aint <hi>Edwards</hi> Crown to the Duke of <hi>Ormond.</hi>
+               </item>
+               <item>The Patena to the Biſhop of <hi>Exeter.</hi> And laſtly,</item>
+               <item>The Challce to the Biſhop of <hi>London,</hi>
+               </item>
+            </list>
+            <p>All things being thus prepared about ten a Clock, the proceeding began, from the Hall into the Palace Yard, through the Gate-houſe, along the great Sanctuary, to the Weſt end of the Abby, upon blew Cloath, which was ſpread upon the Ground, from the Throne in <hi>Weſtmin<g ref="char:EOLhyphen"/>ſter</hi> hall, to the great Steps in the Church, by Sir <hi>George Carteret</hi> Knight, his Majeſties Vice Chamberlain, as Almoner that day by ſpecial appointment.</p>
+            <list>
+               <head>The Proceeding to the Corona<g ref="char:EOLhyphen"/>tion vvas in this following Order.</head>
+               <item>THe Drums four, the Trumpets ſixteen in four claſſes.</item>
+               <item>The Six Clerks of the Chancery.</item>
+               <item>Ten of the Kings Chaplains having dignitler.</item>
+               <item>The Aldermen of <hi>London.</hi>
+               </item>
+               <item>The Kings learned Councell at Law.</item>
+               <item>The Kings Solicitour, and the Kings Attorney.</item>
+               <item>The Eſquires of the Body.</item>
+               <item>The Maſters of Requeſt.</item>
+               <item>
+                  <pb n="11" facs="tcp:96086:7"/>The Gentlemen of the Privy Chamber.</item>
+               <item>The Knights of the <hi>Bath</hi> in their Purple Robes.</item>
+               <item>The Barons of the <hi>Exchequer,</hi> and Juſtices of both Benches:</item>
+               <item>The Lord chief Baron, and the Lord chief Juſtice of the common Pleas.</item>
+               <item>The Maſter of the Rolls<g ref="char:punc">▪</g> and the Lord chief Juſtice of the Kings Bench.</item>
+               <item>The Serjeant Porter, and the Serjeant of the Veſtry.</item>
+               <item>The Children and Gentlemen of the Kings Chappel.</item>
+               <item>The Prebends of <hi>Weſtminster.</hi>
+               </item>
+               <item>The Maſter of the Jewel-houſe.</item>
+               <item>The Knights of the Privy Councell:</item>
+               <item>
+                  <hi>Portcullis</hi> Purſulvant at Arms.</item>
+               <item>The Barons in their Robes two and two, carrying their Caps of Crimſon Velvet turned up with Minever in their hands.</item>
+               <item>The Biſhops two and two according to their dignities and Conſecrations. <hi>Rogue Croix, blew Mantle.</hi> Purſulvants.</item>
+               <item>The Viſcounts two and two in their Robes with their Coronets in their hands.
+<list>
+                     <item>
+                        <hi>So<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>erſet,</hi>
+                     </item>
+                     <item>
+                        <hi>Cheſter.</hi>
+                     </item>
+                     <item>Heralds.</item>
+                  </list>
+               </item>
+               <item>The Earls two and two in their Robes, holding their Coronets in their hands,
+<list>
+                     <item>
+                        <hi>Richmond,</hi>
+                     </item>
+                     <item>
+                        <hi>Windſor.</hi>
+                     </item>
+                     <item>Heralds.</item>
+                  </list>
+               </item>
+               <item>The Marqueſs of <hi>Dorcheſter.</hi>
+               </item>
+               <item>The Marqueſs of <hi>Worcester.</hi>
+               </item>
+               <item>In their Robes with their Cornets in their hands,
+<list>
+                     <item>
+                        <hi>Lanca<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ter,</hi>
+                     </item>
+                     <item>
+                        <hi>York.</hi>
+                     </item>
+                     <item>Heralds.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Norroy, Clarecieu<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>,</hi> Provincial Kings, carrying their Coronets in their Hands,</item>
+               <item>The Lord high Treaſurer, The Lord high Chancellour.</item>
+               <item>St. <hi>Edwards</hi> Staff born by the Harl of <hi>Sandwich.</hi>
+               </item>
+               <item>The Spurs born by the I<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>arl of <hi>Pembroke</hi> and <hi>Montgomery.</hi>
+               </item>
+               <item>St. <hi>Edwards</hi> Scepter born by the Earl of <hi>Bedford.</hi>
+               </item>
+            </list>
+            <list>
+               <pb facs="tcp:96086:8"/>
+               <item>The third Sword drawn, and born by the Earl of <hi>Derby.</hi>
+               </item>
+               <item>The Sword called <hi>Curtana,</hi> drawn, and born by the Earl of <hi>Oxfo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d.</hi>
+               </item>
+               <item>The Pointed Sword drawn, and born by the Earl of <hi>Shrews<g ref="char:EOLhyphen"/>ou<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>y.</hi>
+               </item>
+               <item>The Lord Mayor of <hi>London.</hi>
+               </item>
+               <item>
+                  <hi>Garter</hi> Principal King at Arms.</item>
+               <item>The Gentleman Uſher of the Back R<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d.</item>
+               <item>The Earl of <hi>Lindſey,</hi> Lord great Chamberlain of <hi>England.</hi>
+               </item>
+            </list>
+            <p>Arms
+<list>
+                  <item>The Earl of <hi>Suffolk,</hi> Earl Marſhal for this preſent occaſion.</item>
+                  <item>The Sword of State in the Scabbard, born by the Earl of <hi>Ma<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>che<g ref="char:EOLhyphen"/>ſter,</hi> Lord Chamber <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ain of the Houſehold.</item>
+                  <item>The Earl of <hi>Nor<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>humbe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>land,</hi> Lord Conſtable of <hi>Eng<g ref="char:EOLunhyphen"/>land</hi> for this pre<g ref="char:EOLhyphen"/>ſent occaſion.</item>
+               </list> Serjeants</p>
+            <p>
+               <list>
+                  <head>His Royal Highneſs the Duke of <hi>York,</hi>
+                  </head>
+                  <item>The KING</item>
+                  <item>Supported by the Biſhop of</item>
+                  <item>
+                     <hi>Bath</hi> and <hi>Wells,</hi> and Biſhop of <hi>Dareſnt</hi>
+                  </item>
+                  <item>His Train born by the Lords</item>
+                  <item>
+                     <hi>Mandevile, Cavendiſh, Oſſory,</hi> and <hi>Percy,</hi>
+                  </item>
+                  <item>Aſſiſted by the Lord <hi>Mansfield</hi> Maſter of the Robes</item>
+                  <item>The <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>arl of <hi>Landerdale</hi>
+                  </item>
+                  <item>One of the Gentlemen of the Bed-Chamber.</item>
+                  <item>Mr. <hi>Seamour,</hi> and Mr. <hi>Aſhburnham</hi>
+                  </item>
+                  <item>Both Grooms of the Bed-chamber.</item>
+                  <item>The Captain of the Guard.</item>
+                  <item>The Captain of the Penſioners.</item>
+                  <item>The Yeomen of the Guard in their Coats.</item>
+               </list>
+            </p>
+            <p>The Penſi<g ref="char:EOLhyphen"/>oners with their Pole Axes.</p>
+            <p>Barons of the Cinque Ports, their whole number xvi. Habited in dou blets of Crimſon Satin Scarlet Hoſe, Scarlet Gowns, lined with Crimſon Satin, black Velvet Capes, and black Velvet Shoes, carrying the Ca<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>opy.</p>
+            <p>Serjeants at
+<list>
+                  <item>The Scepter <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> with the Dove <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>orn by the Duke of <hi>Albe<g ref="char:EOLhyphen"/>marle.</hi>
+                  </item>
+                  <item>St. <hi>Edwards</hi> Crown born by the Duke of <hi>Ormond,</hi> Lord High Steward for this preſent occaſion.</item>
+                  <item>The Ord <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>r<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> by the Duke of <hi>Buck<g ref="char:EOLhyphen"/>ingham.</hi>
+                  </item>
+                  <item>The <hi>Patena,</hi> born by the Biſhop of <hi>Exeter</hi> in his Cope.</item>
+                  <item>The Regale or Chalice, born by the Biſhop of <hi>London</hi> in his Cope</item>
+               </list> at Arms</p>
+            <p>Barons of the Cinque Ports, their whole number xvi. Habited in dou blets of Crimſon Satin Scarlet Hoſe, Scarlet Gowns, lined with Crimſon Satin, black Velvet Caps, and black Velvet Shoes, carrying the Canopy.</p>
+            <p>The Penſi<g ref="char:EOLhyphen"/>oners with their Pole Axes.</p>
+            <p>
+               <pb n="13" facs="tcp:96086:8"/>The proceeding paſting through the Quire went up the Stairs toward the great <hi>Theater,</hi> and as they came to the top thereof were diſpoſed by the Heralds into two Gallerles built on either ſide the upper end of the Quire. On the North ſide the Aldermen of <hi>London,</hi> title Judges, and others of the long Robe, as alſo the Quire of <hi>Weſtminiſter,</hi> with the Gentlemen and Children of the Kings Chappel; and on the South ſide the Knight of the Bath, and Gentle<g ref="char:EOLhyphen"/>men of the privy Chamber.</p>
+            <p>Near the Pulpit ſtood the Maſter of the Jewel houſe, and the Lord Mayor of <hi>London.</hi>
+            </p>
+            <p>The Nobility were ſeated on Forms round about the inſide of the <hi>Theater:</hi> On the cor<g ref="char:EOLhyphen"/>ner whereof, neareſt to the Altar, ſtood the Provincial Kings, Heranlds, and Purſuivants at Arms.</p>
+            <p>Within the Rails, on either ſide of the F<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>rance of the <hi>Theater</hi> from the Quire, ſtood the Serjeants at Arms, with their Mices, and over the Door, at the Weſt end of the Quire, ſtood the Drums and Trumpets.</p>
+            <p>The King, being entered the Weſt Door of the Church, was received with an Anchem: and here his Majeſty kneeled down, and after ſome ſhort Ejaculations, he proceeded to the <hi>Theater,</hi> between the Quire and the Altar; on which the Throne of State was placed; on the caſt ſide whereof was ſet a Chair, Footſtood and Cuſhion, covered with Cloath of Gold, whereon for a while he repoſed himſelf. Immediatly after, the Biſhop of <hi>London</hi> (who was appointed to officiar, in part, for the Arch-biſhop of <hi>Canterbury</hi>) with the Lord High Cou<g ref="char:EOLhyphen"/>ſtable, the Earl Marſhal, the Lord great Chamberlain, the Lord High Chancellour, and Lord Chamberlain of the Houſhold, went to the South, the Weſt, and North ſides of the <hi>Theater,</hi> and acquainted the people, that he preſented to them King <hi>Charles</hi> the Rightful inheritor of the Crown of this Realm; and asked them if they were willing to do their Homage, Service, and bounden Duty to him. As this was doing the King roſe up, looking towards the people, to whom the Biſhop ſpake: Who, by their ſhouts ſignified their Conſent, the like queſtion was put to the Nobility.</p>
+            <p>And while an Anthem was ſung by the Gentlemen of the Kings Chappel, a Carpet was ſpread by the Officers of the removing Ward-robe, and over that was laid, by the <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>her of the Black Rod, aſſiſted by the Yeamen of the Ward-robe, a Silk Carpet and Cuſhion, and then the Biſhop of <hi>London</hi> went and placed himſelf on the North ſide of the Altar.</p>
+            <p>Then the King deſcending from his Throne, proceeded towards the Altar, ſupported by the Biſhops of <hi>D<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ſ<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>,</hi> and <hi>Bath</hi> and <hi>Wells;</hi> the four Swords, and grand Officers, and the N ble Men, and Biſhops that car<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>led the Regali<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, going before him. At the ſteps of the Altar he kneeled down, and offered a Cloath of Gold Pall, and an Ingor of Gold of a pound weight and retired to his Chair of State, on the South-ſide of the Altar, and the Biſhop of <hi>London</hi> receiving the Regalia, and placing them on the Altar, the Biſhops and Noble Men, that car<g ref="char:EOLhyphen"/>ried them, retired to their Seats, and the King kneeled at a ſaid ſtool on the right ſide of the Chair of State, whil<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſt the Biſhop of <hi>London</hi> ſaid the Prayer. <hi>O God that doſt viſit thoſe that are humble,</hi> &amp;c. which ended, the Biſhop of <hi>Worcheſter</hi> preached, on the 2 <hi>ver.</hi> of the 28. of <hi>Proverbs.</hi> On the Kings right hand ſtood the Biſhop of <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>eſne,</hi> and beyond him, the Noble Men with the Swords naked and erect, the Duke of <hi>York</hi> ſate on his left-hand, and by him ſtood the Biſhops of <hi>Bath</hi> and <hi>Wells,</hi> and the Lord great Chamberlain. On <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>om be<g ref="char:EOLhyphen"/>hind the Duke, ſate the Lord High Chamcellor, and Lord High Treaſ<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>er, and in a Gall<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>y the Dutcheſs of <hi>York,</hi> where were alſo placed the Amba<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>dours and Foreign Miniſters. The Biſhop of <hi>London</hi> ſa<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e in the Arch-Biſhops Chair, on the North-ſide of the Altar, and the reſt of the Biſhops on Forms behind him, and towards St. <hi>Edwards</hi> Chappel ſtood <hi>Ga<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>er</hi> prin<g ref="char:EOLhyphen"/>ciple King at Arms, the Ordicers of the Ward-robe in Scarlet Gowns, the Serjeant of the Veſte<g ref="char:EOLhyphen"/>ry and Vergers, with ſome of the Grooms and Pages of the Bed, Chamber to do ſervice, as oc<g ref="char:EOLhyphen"/>caſion required. Oppoſite to theſe on the South-ſide ſtood the Beau and Prebends of <hi>west<g ref="char:EOLhyphen"/>minſter</hi>
+               <pb n="14" facs="tcp:96086:9"/>Between the Kings Chair of State and the Pulpit, but more to the North-ſide, was placed St. <hi>Edwards</hi> Chair, covered with Cloath of Go<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>.</p>
+            <p>Sermon ended, the Biſhop of <hi>London</hi> came <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eer, and aſked the King, if he would take the Oath of his Progenitors, to confirm the Laws, to the People, and Iſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>anchiſes to the Clergy, granted by St. <hi>Edward</hi> the Confeſſor, to maintain the Goſp<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l eſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>abliſhed in the Kingdom, <hi>&amp;c.</hi> The Biſhop of <hi>Rocheſter</hi> alſo reading the Biſhops Petition, praying, that they and the Churches under their Government might be protected, <hi>&amp;c.</hi> all which his Majeſty promiſed to perform, and aſſiſted by the Biſhops of <hi>Dureſos,</hi> and <hi>Bath,</hi> and <hi>wells</hi> with the Sword of State born before him, and the Lord great Chamberlain attending, went to the Altar, and took an Oath to perform what he had promiſed, and in like manner returned to his Chair of State, where kneeling at the Fald-ſtool, while the Biſhop of <hi>London,</hi> and the Biſhops of <hi>Peter-borough,</hi> and <hi>Glouceſter,</hi> performed divine ſervice, toward the end whereof, the Arch-Bi<g ref="char:EOLhyphen"/>ſhop of <hi>Canterbury</hi> came out of St. <hi>Edwards</hi> Chappel concluding the ſervice. Then the King aroſe, and aſſiſted by the Biſhops <hi>Dureſon,</hi> and <hi>Bath,</hi> and <hi>wells,</hi> went to the Altar, His Royal Robes being taken off by the Lord great Chamberlain, and carried into St. <hi>Edwards</hi> Chappel, mean while the Chair was removed from the entrance of the Theater, and ſet on the North-ſide, be<g ref="char:EOLhyphen"/>twixt the Altar and St. <hi>Edwards</hi> Chair, where the King ſitting (the Dean of <hi>Weſtminſter</hi> hold<g ref="char:EOLhyphen"/>ing the Ampulla, and pouring out the Oyl) he was anointed by the Arch-Biſhop, his Grace ſaying the Prayers, and the Quire ſinging the Anthem, appointed for that Solemn occaſion. The Dukes of <hi>Buckingham</hi> and <hi>Albeinarle,</hi> with the Earls of <hi>Berks</hi> and <hi>Sandwich,</hi> holding a Cloath of Gold pall over the Kings head. The anointing being dryed up, the Dean of <hi>Weſtmin<g ref="char:EOLhyphen"/>ster</hi> cloſed the Loops of his Shire, and the Arch-Biſhop received the Colſe from the Lord great Chamberlain, put it on the Kings Head. The Dean of <hi>Weſtminſter</hi> having put on the Sur<g ref="char:EOLhyphen"/>plice, the Tiſſue Hoſe and Sandals, and the cloſe Pall, (being Cloath of Gold) fetcht the Spurs from the Altar, delivering them to the Lord Great Chamberlain, who having with them touched the Kings Heels, ſent them back.</p>
+            <p>Then the Arch-Biſhop receiving the Sword of State from the Lord Chamberlain of the Houſhold layed it upon the Altar, and having ſaid the Prayers, delivered it to the King, which was girded on by the Lord great Chamberlain.</p>
+            <p>Then the Dean of <hi>Weſtminſter</hi> put on the Armil made of Cloath of Tiſſue, and next the Mantle or open Pall, being made of Cloath of Gold lined with red Taffaty.</p>
+            <p>In this time St. <hi>Edwards</hi> Chair was ſet in the middle of the Iſle right againſt the Altar, wherein the King being ſet, the Arch-Biſhop brought St. <hi>Edwards</hi> Crown from the Altar, and put it on the Kings Head, whereupon all the People cryed, <hi>God ſave the King,</hi> and the Biſhop ſaid, <hi>God Crown thee with a Crown of Glory,</hi> &amp;c. and ſeveral Prayers proper to this Great Solemulty, and an Authem being ſung by the Quires; the Dukes, Marqueſſes, Earls, and Viſcounts put on their Coronets, the Barons their Caps, and the Kings at Arms their Coronets,</p>
+            <p>Then the Maſter of the Jewel Houſe delivered the Ring to the Arch-Biſhop, who put it on the fourth ſinger of the Kings right hand, and after the Prayers, the Linnen Gloves were de<g ref="char:EOLhyphen"/>livered to the King, by the Lord great Chamberlain, then the King went to the Altar, and offered His Sword, which being redeemed by the Lord Chamberlain of the Houſhold, was by him drawn, and ſo carried by him all the reſt of the Solemnity.—Then the Arch Biſhop took the Scepter with the Croſs from the Altar, and Mr. <hi>Henry Howard</hi> (Brother to <hi>Thomas</hi> Duke of <hi>Norfolk</hi>) by virtue of the tenure of his Manour of <hi>Wirkſop,</hi> in the County of <hi>Norfolk,</hi> delive<g ref="char:EOLhyphen"/>red to the King a rich Glove for his right hand, which the King having put on received the Seepter from the Arch-Biſhop, and during the Prayer, the ſaid Mr. <hi>Howard</hi> performed the ſervice of ſupporting the Kings right Arm,—Next the Arch-Biſhop delivered to the King, the Scepter with the Dove, who then kneeled, with both the Scepters in his hands, whilſt the Arch-Biſhop pronounced the bleſſing. Then the King aroſe and late in St. <hi>Edwards</hi> Chair
+<pb n="15" facs="tcp:96086:9"/>whilſt the Arch-Biſhop, and Biſhops kneeled, and were kiſſed by him, after which the King returned to the Chair placed on the Theater behind his Throne, where he repoſed himſelf, while Prayers were ſaid, and <hi>Te Deum</hi> ſung, which ended, the King aſcended his Throne, in the midſt of the Theater, the Swords, great Officers, and Biſhops, ſtanding on each ſide, while a Prayer was ſaid. After which the Biſhops, and Nobility did their Homage. Firſt, the Arch-Biſhop kneeling before the King, ſaid, I William <hi>Arch-Biſhop of</hi> Canterbury, <hi>ſhall, be faithful and true, and faith and truth bear unto you, our Soveraign Lord, and your Heirs, Kings of</hi> England, <hi>and ſhall do, and truly acknowledge the Service of the Land, which I claim to hold of you, in right of the Church, So help me God;</hi> after which he, and all the Biſhops kiſſed the Kings left C<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>k.</p>
+            <p>Then came up the Duke of <hi>York</hi> with <hi>Garter</hi> principal King at Arms before him, and his Train born by two Gentlemen, when being come to the Throne, he kneeled down, put off his Coronet, and did Homage in th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſe words, <hi>I</hi> James <hi>Duke of</hi> York <hi>become your Liegt man, of life and limb, and of earthly Worſhip: and Faith and Truth I ſhall bear unto you, to live and die againſt all manner of Folk, So help me God;</hi> At which the Drums beat, the Trumpets ſounded, and the Prople ſhouted. The like did the Dakes of <hi>Buckingham</hi> and <hi>Alberma<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>le</hi> for themſelves, and the reſt of the Dukes.</p>
+            <p>Then the Marquiſſes of <hi>Worcheſter</hi> and <hi>Dorcheſter,</hi> next the Earl of <hi>Oxford</hi> aſcended by the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eſt of the Earls, to ſignifie their Conſents. Then Viſcount <hi>Hereford</hi> for the Viſcounts, and then the Drums beat, Trumpets ſounded, and the People ſhouted. Laſtly, the Baron <hi>Audly</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>d the like Homage, being attended by the reſt of the Barons, which was followed with bear<g ref="char:EOLhyphen"/>ing of Drums, ſounding of Trumpets, and the Peoples ſhouts, after which the Duke of <hi>York,</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>dal the Nobility ſingly aſcended the Throne, and touched the Kings Crown, p<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>omlſing thereby to be alwayes ready with all their power to ſupport it. During which Solemn Cere<g ref="char:EOLhyphen"/>mony, the Lord High Chancellor went to the South, Weſt, and North-ſides of the Stage, and proclaimed to the People the Kings General pardon, being attended by Mr. <hi>Garter</hi> to the South ſide, and by a Gentleman Uſher, and two Heralds to the other two ſides, the Lord <hi>Cornwallis</hi> Treaſurer of the Houſhold, at the ſame time throwing amongſt the people, Medals of Gold and Silver.</p>
+            <p>The King being thus enthroned, the Gentlemen of the Chappel ſung the Anthem, <hi>Behold <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Yord our Defender, and look upon the face of thine anointed,</hi> &amp;c. at the end whereof the Drums and Trumpets beat and ſounded. After which the Biſhop of <hi>London</hi> begun the Communions a drives, which being ended, the King deſcended from his Throne with his Crown on his I lead <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd the Scepters in his Hands, (the reſt of the Regalia being carried before him,) and the<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>: proceeded into St. <hi>Edwards</hi> Chappel, where he tock off St. <hi>Edwards</hi> Crown, alid delivered it to the Biſhop of <hi>London,</hi> who placed it on St. <hi>Edwards</hi> Altar, the reſt of the Regalia being given to the Death of <hi>Weſtminſter,</hi> and by him laid there alſo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. Then he retired Into a Traverſe, where he was <gap reason="illegible" resp="#PDCC" extent="5 letters">
+                  <desc>•••••</desc>
+               </gap>hed of the <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> he was Crowned in (which were deli<g ref="char:EOLhyphen"/>vered to the Dean of <hi>Westminſter</hi> to be laid up with the reſt of the Regalla) and being in<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eſted with his Royal Robes of Puryle Velver, he came near to St. <hi>Edwards</hi> Altar, where the Biſhop of <hi>London</hi> ſtandling ready with the Imperial Crown in his hands ſet that upon his Head, after which he took the two Scepters, and proceeded to <hi>Weſtminſter</hi>-Hall, the ſame way that he came, and attended after the ſame manner, ſaving that the Noble men and Biſhops, that ſtrongſt the Regalia to the Abbay, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> not now immediately before him as they did then, but went according to their degrees: All the Noble-men having their Coronets and Caps on their heads, and the Kings at Arm<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> their Coroners.</p>
+            <p>The <hi>proceeding</hi> being entered the Hall, the <hi>Nobility,</hi> and others, who had places aſſigned them, went and placed themſelves, but the <hi>King,</hi> attended with the <hi>Great Officers,</hi> withdrew into the <hi>inner Court of wards,</hi> and in the mean <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> all the <hi>Tables</hi> in the body of the <hi>Hall</hi> were <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ervce.</p>
+            <p>
+               <pb n="16" facs="tcp:96086:10"/>On the <hi>Right</hi> hand were ſet two <hi>Tables,</hi> one beneath the other, at the upper end of the firſt ſate the <hi>Biſhops,</hi> and below them the <hi>Judges,</hi> with the reſt of the <hi>long Rob.</hi>
+            </p>
+            <p>At the ſecond <hi>Table</hi> ſate the <hi>Maſters</hi> of the <hi>Chancery,</hi> and the <hi>ſix Clerks,</hi> at which likewiſe the <hi>Barons</hi> of the <hi>Cinque-Ports</hi> were then neceſſitated to ſit, (by reaſon of a Diſturbance which ſome of the <hi>Kings</hi> Foot men made in offering to take the <hi>Canopy</hi> from them) although the upper end of the firſt <hi>Table</hi> was appointed for them.</p>
+            <p>On the other ſide of the <hi>Hall</hi> was placed likewiſe along <hi>Table,</hi> which reached down near to the <hi>Common-Pleas-Court</hi> whereat the <hi>Nobility</hi> dined, and behind this cloſe to the wall, ſate the Lord <hi>Mayor, Ald<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>men, Recorder,</hi> and twelve chief Citizens of <hi>London.</hi>
+            </p>
+            <p>Laſtly, within the <hi>Court of Common-Pleas</hi> was a <hi>Table</hi>-ſet for the <hi>Officers</hi> at <hi>Arms,</hi> each <hi>Table</hi> being furniſhed with three <hi>Comſes</hi> anſwerable to that of the <hi>Kings,</hi> beſides the <hi>Banquet.</hi>
+            </p>
+            <p>At the upper end of the Hall (where upon an Aſcent of ſteps, a <hi>Theater</hi> was raiſed for His <hi>Majeſties</hi> Royal Seat at this great Solemnity) a large <hi>Table</hi> being placed, the <hi>Serjeant</hi> of the <hi>Ewry,</hi> two <hi>Serjeants</hi> at <hi>Arms,</hi> with their <hi>Maces</hi> going before them, brought up the <hi>Covering,</hi> which was ſpread by the <hi>Gentlemen Uſhers,</hi> and <hi>Serjeants</hi> of the <hi>Ewry.</hi>
+            </p>
+            <p>This being done, the <hi>Officers</hi> of the <hi>Pantry,</hi> with two <hi>Serjeants</hi> at <hi>Arms</hi> alſo before them, brought up the <hi>Salt</hi> of <hi>State</hi> and <hi>Caddinet.</hi>
+            </p>
+            <p>A little before the <hi>King</hi> return'd to dinner, two <hi>Eſquires</hi> of the <hi>Body</hi> took their Seats upon two little Foot-ſtools on either ſide of the foot of the <hi>Kings Chair</hi> (placed oppoſit to the middle of the Table) and there ſate until the <hi>King</hi> came into Dinner, when <hi>Riſing</hi> and pe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>forming their Duty, in placing the <hi>Kings Robes</hi> for his better convenlency of ſitting, they ſate down again at the <hi>Kings</hi> feet, untill the <hi>King</hi> gave them leave to <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iſe.</p>
+            <p>On the right ſide of the <hi>Throne</hi> was erected a <hi>Gallery</hi> for the <hi>Officers</hi> at <hi>Arms,</hi> and oppoſite<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to that on the other ſide, another for the <hi>Muſick,</hi> and below on the old Se<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ffold, ne<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> the <hi>Court</hi> of <hi>Common-Pleas,</hi> ſtood the <hi>Kings Trumpeters.</hi>
+            </p>
+            <list>
+               <head>The proceeding at the carrying up of the first Courſe to the Kings Table.</head>
+               <item>THe two <hi>Clerks Comptrollers.</hi> The two <hi>Clerks</hi> of the <hi>Green Cloath.</hi> And the <hi>C<gap reason="illegible" resp="#PDCC" extent="7 letters">
+                        <desc>〈7 letters〉</desc>
+                     </gap>
+                  </hi> of His <hi>Majeſties Houſhold.</hi> All in Black Velvet Gowns trimm'd with black Silk and Gold <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ce, with Velvet Caps raiſed in the head.</item>
+               <item>Six <hi>Serjeanes</hi> at <hi>Arms.</hi> two and two.
+<list>
+                     <item>The <hi>Earl Marſhal</hi> on the left hand.</item>
+                     <item>The <hi>Lord High-Steward.</hi>
+                     </item>
+                     <item>The <hi>Lord High Conſlable</hi> on the Right.</item>
+                  </list>
+               </item>
+            </list>
+            <p>All three mounted on Horſe-back in their Robes, and with their Coronets on their Head<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> having their Horſes richly trapped.</p>
+            <list>
+               <item>Six <hi>Serjeants</hi> at <hi>Arms,</hi> two and two</item>
+               <item>The <hi>Comptroller</hi> of the <hi>Houſhold,</hi> The <hi>Treaſurer</hi> of the <hi>Houſhold,</hi> with their white <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </item>
+               <item>The <hi>Earl</hi> of <hi>Dorſit</hi> Sewer.</item>
+               <item>The <hi>Earl</hi> of <hi>Chi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>terfield</hi> his aſſiſtant.</item>
+            </list>
+            <p>The <hi>Knights</hi> of the <hi>Bath</hi> carrying up the Service, two and two to a Diſh, which was ſe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> upon the Table by the <hi>Earl</hi> of <hi>Lincoln</hi> Carver, aſſiſted by the <hi>Earls Sewers.</hi>
+            </p>
+            <p>In the Bear came up the three Clerks of His <hi>Majeſties</hi> Kitchin, all ſuted in Black Figu<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>in Gowns, and Velvet Caps, in faſhion like thoſe worn by the Clerks <hi>Comptrollers.</hi>
+            </p>
+            <p>Dinner being ſet on the Table, the <hi>King</hi> came ſorth from the <hi>Inner. Court</hi> of <hi>Wards,</hi> in his <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ayal Robes,</hi> with the <hi>Crown</hi> on His <hi>Head,</hi> and <hi>Scepter</hi> in his hand, having the three <hi>Swords</hi>
+               <pb n="17" facs="tcp:96086:10"/>born naked before him, and having waſh'd, ſate down to Dinner, the <hi>Biſhop</hi> of <hi>London</hi> ſay<g ref="char:EOLhyphen"/>ing Grace.</p>
+            <p>On the <hi>Kings</hi> Right hand ſtood the <hi>Noble-<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>n</hi> that carried the three <hi>Swords,</hi> holding them naked, and <hi>erected</hi> all the Dinner while; at his left hand ſtood the <hi>Lord high Chamberlain,</hi> to whom the <hi>King</hi> had given the <hi>Scepter</hi> to hold, at the Tables end, on the <hi>Kings</hi> left hand ſate the Duke of <hi>York</hi> in his Robes and Coroner.</p>
+            <p>Soon after Dinner was begun, the Lord <hi>Allington,</hi> by virtue of his Tenure of the <hi>Manor</hi> of <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="5 letters">
+                     <desc>•••••</desc>
+                  </gap>dley</hi> in the County of <hi>Hertford,</hi> ſerved the <hi>King</hi> of his firſt <hi>Cup,</hi> (which was of <hi>Silver Gilt</hi>) and after the <hi>King</hi> had drank, he had the <hi>Cup</hi> for his <hi>Fee.</hi>
+            </p>
+            <p>Next <hi>Thomas Leigh</hi> Eſquire was brought up to the Table, with a Meſs of <hi>Pottage</hi> called <hi>De<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="6 letters">
+                     <desc>••••••</desc>
+                  </gap>,</hi> by reaſon of his T<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e of the <hi>Manor</hi> of <hi>Addington</hi> in the County of <hi>Surrey.</hi>
+            </p>
+            <p>Afterwards a little before the ſecond Courſe was ready, Sir <hi>Edward Dynock</hi> Knight (being the <hi>Kings Champion,</hi> as being ſeized of the <hi>Manor</hi> of <hi>Serivels<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y</hi> in the County of <hi>Lincoln</hi>) en<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ar'd the <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>all,</hi> on a goodly white Courſer, a<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ed at all points, and there having made a ſtand for ſome time, advanced in manner following.</p>
+            <list>
+               <item>Firſt two <hi>Trumpets.</hi> Then the <hi>Serjeant Trumpeter</hi> with his Mace.</item>
+               <item>After him two <hi>Serjeants</hi> at <hi>Arms</hi> with the<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Maces.</item>
+               <item>Then one <hi>Eſquire</hi> carrying his <hi>Target,</hi> having his Arms depicted thereon.</item>
+               <item>And another <hi>Eſquire</hi> carrying the <hi>Champions Launce</hi> upright.</item>
+            </list>
+            <list>
+               <head>After them <hi>York</hi> Herald at <hi>Arms.</hi>
+               </head>
+               <item>The <hi>Earl Marſhal</hi> on his left hand on Horſe <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ack.</item>
+               <item>
+                  <hi>The Champion.</hi>
+               </item>
+               <item>The <hi>Lord High Conſtable</hi> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Right Hand on Horſe-back.</item>
+            </list>
+            <p>Being come ſome few ſteps, he made a ſtand, whereupon the ſaid Herald proclaimed his <hi>Chall<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nge,</hi> in the following words.</p>
+            <p>
+               <hi>If any perſon of what degree ſoever high or low, ſhall deny, or gain ſay our</hi> Soveraign <hi>Lord</hi> KING CHARLES <hi>the</hi> Second, King <hi>of</hi> England, Scotland, France <hi>and</hi> Ireland, Defender <hi>of the</hi> Faith, <hi>Son and next Heir to our</hi> Soveraign <hi>Lord</hi> CHARLES <hi>the</hi> firſt, <hi>the last</hi> King <hi>deceaſed, to be Right Heir to the Imperial Crown of this Realm of</hi> England, <hi>or that he ought not to enjoy the ſome, here is his</hi> Champion, <hi>who ſayeth that he lieth, and is a falſe Traitor, being ready in per<g ref="char:EOLhyphen"/>ſon <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o Combat with him, and in this quarrel will adventure his life againſt him, on what day ſoever he ſhall be appointed.</hi>
+            </p>
+            <p>Whereupon the <hi>Champion</hi> threw down his <hi>Gantlet,</hi> which lying ſome ſmal time, and no body taking it up, it was delivered to him again by the ſame Herald, then he advanced fur<g ref="char:EOLhyphen"/>ther forward till he came to the raiddle of the <hi>Hall.</hi> And laſtly to the foot of the Steps going up to the Throne of <gap reason="illegible" resp="#PDCC" extent="5 letters">
+                  <desc>•••••</desc>
+               </gap>.</p>
+            <p>This being done, the <hi>Earl</hi> of <hi>Pembroke</hi> and <hi>Montgomery</hi> (aſſiſted as before) preſe<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ed, on the knee to the <hi>King,</hi> a Gilt <hi>Cup.</hi> (with a <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ver) full of Wine, who drank to the <hi>Champi<g ref="char:EOLhyphen"/>on,</hi> and by the ſaid <hi>Earl</hi> ſent him the <hi>Cup,</hi> which having receiv'd, he after three reverences drank it all off, went a little backward, and ſo departed out of the <hi>Hall,</hi> taking the ſaid <hi>Cup</hi> for his Fee.</p>
+            <p>After which <hi>Garter</hi> principle King of <hi>Arms,</hi> with the two provincial Kings; having their Coro<g ref="char:EOLhyphen"/>na<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>, with the <hi>Heralds</hi> and <hi>Purſuivants</hi> at <hi>Arms,</hi> come down from the <hi>Gallery,</hi> and went <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o the lower and of the Tabler, where they firſt made their obeyſance to his <hi>Majeſtie,</hi> then advancing up to the midſt of the Hall, they did the like, and afterward at the foot of the ſteps to His <hi>Majesties Throne,</hi> where <hi>Garter</hi> being aſcended, proclaimed his <hi>Majesties</hi> Stile in <hi>Latine, French,</hi> and <hi>Engliſh,</hi> according to <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> uſage, crying <hi>Largeſs</hi> thrice, which done, they all retired into the midſt of the Hall, and thereafter crying, <hi>Largeſs</hi> again thrice, he pro<g ref="char:EOLhyphen"/>claimed the <hi>Kings</hi> Stile as before. And laſtly, they went to the end of the <hi>Noblemens</hi> Table, and did the ſame again, and from th<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ce into the <hi>Common Pleas Court</hi> to Dinner.</p>
+            <p>
+               <pb n="18" facs="tcp:96086:11"/>Immediately after this, the ſecond Courſe was brought up by the <hi>Gentlemen Penſioners,</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the former Solemnity, the laſt diſh being carried up by <hi>Eraſmus Smith</hi> Eſquire, who then pre<g ref="char:EOLhyphen"/>ſented the <hi>King</hi> with three <hi>Maple Cups,</hi> on the behalf of <hi>Robert Barnham</hi> Eſquire, in reſpect of his Tenure of the <hi>Manor</hi> of <hi>Nether <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſington,</hi> in the County of <hi>Kent.</hi>
+            </p>
+            <p>Laſtly, The <hi>Lord Mayor</hi> of <hi>London</hi> then preſented the <hi>King</hi> with Wine in a <hi>Golden Cup,</hi> hav<g ref="char:EOLhyphen"/>ing a Cover, of which the <hi>King</hi> having drank, the ſaid <hi>Lord Mayor</hi> receiv'd it for his Fee.</p>
+            <p>By this time the day being far ſpent, the <hi>King</hi> (having water brought him by the Earl of <hi>Pembroke</hi> and his aſſiſtants) waſhed, and roſe from Dinner before the third Courſe war brought in, and retiring into the <hi>Inner-Court of wards,</hi> he there diſrobed himſelf, and from thence went privately to his <hi>Barge,</hi> which waited for him at the <hi>Parliament Stairs,</hi> and ſo to the <hi>Privy Stairs</hi> at <hi>White-hall,</hi> where he landed.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="oath">
+            <head>The Coronation Oath.</head>
+            <p>
+               <hi>ARch-Biſhop,</hi> Sir, will you grant and keep, and by your Oath confirm to the people of <hi>England</hi> the Laws and Cuſtomes to them granted by the Kings of <hi>England,</hi> your lawful and Religi<g ref="char:EOLhyphen"/>ous Predeceſsors, and namely the Laws, Customs, and Franchiſes gra<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ed to the Clergy,<note place="margin">Vid. <hi>Ruſhworths</hi> Col. part. 1. Fol. 200.</note> by the Glorious King, S<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. <hi>Edward</hi> your Predecoſſor ac<g ref="char:EOLhyphen"/>cording to the Laws of God, the true profeſſion of the Goſpel eſtabliſhed in this Kingdom agreeable to the prerogative of the Kings thereof; and the Antient Cuſtoms of the Realm.</p>
+            <p>
+               <hi>KING,</hi> I grant and promiſe to keep them.</p>
+            <p>
+               <hi>Arch-Biſhop,</hi> Sir, will you keep peace and godly agreement (according to your power) both <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> God, the Holy Church, the Clergy, and the People.</p>
+            <p>
+               <hi>KING,</hi> I will keep i<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+            </p>
+            <p>
+               <hi>Arch-Biſhop,</hi> Sir, will you to your power cauſe Law, Juſtice, and Diſcretion in Mercy and Truth to be executed to your judgement.</p>
+            <p>
+               <hi>KING,</hi> I will.</p>
+            <p>
+               <hi>Arch-Biſhop,</hi> Sir, will you grant to hold and keep the Laws and rightful Customs, which the Commonalty of this your Kingdoms have, and will you defend and uphold them to the Honour of God <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o much as in you lyes.</p>
+            <p>
+               <hi>KING,</hi> I grant and promiſe ſo to <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <g ref="char:punc">▪</g>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>
